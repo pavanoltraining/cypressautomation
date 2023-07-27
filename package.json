@@ -1,0 +1,21 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavan",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "cypress-xpath": "^2.0.1"
+  }
+}
